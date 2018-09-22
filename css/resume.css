@@ -9,17 +9,7 @@ body {
   padding-top: 54px;
   color: #868e96;
 }
-.sidenav {
-    height: 100%;
-    width: 160px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #211;
-    overflow-x: hidden;
-    padding-top: 20px;
-}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
