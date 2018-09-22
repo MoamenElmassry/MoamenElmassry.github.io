@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
+---
